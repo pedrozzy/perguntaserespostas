@@ -1,0 +1,24 @@
+{
+  "name": "perguntaserespostas",
+  "version": "1.0.0",
+  "description": "uma plataforma de perguntas e repostas estilo yahoo respostas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrozzy/perguntas_e_respostas.git"
+  },
+  "author": "Pedro Monteiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrozzy/perguntas_e_respostas/issues"
+  },
+  "homepage": "https://github.com/pedrozzy/perguntas_e_respostas#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "git": "^0.1.5"
+  }
+}
